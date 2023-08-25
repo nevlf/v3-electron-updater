@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: check-virtual-tool.exe
+    sha512: Du5fQ4LWB2zbdoeE3Wlfph0K4iDZm/pDjmQ88Ypxr36KbnwsGepORMCgUbsU1iFeKUAlj3wd7+AvEyhcRv5RJw==
+    size: 64272055
+path: check-virtual-tool.exe
+sha512: Du5fQ4LWB2zbdoeE3Wlfph0K4iDZm/pDjmQ88Ypxr36KbnwsGepORMCgUbsU1iFeKUAlj3wd7+AvEyhcRv5RJw==
+releaseDate: '2023-07-26T10:53:25.467Z'
